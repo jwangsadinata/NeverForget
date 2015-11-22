@@ -3,4 +3,7 @@ NeverForget is a simple shopping list application developed for android mobile d
 
 Several features implemented includes:
 - Custom layout and custom animations for the SplashScreen
-- Unique view, courtesy of KenBurnsView
+- Unique, immersive view, by using KenBurnsView (flavioarfaria/KenBurnsView)
+- Multiple icons for different item categories
+- MySQL database implementation using the SugarORM (satyan/sugar)
+- Support item editing
