@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemtypes_array">
+        <item>Food</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Clothes</item>
+        <item>Stationery</item>
+        <item>Miscellaneous</item>
+    </string-array>
+</resources>
