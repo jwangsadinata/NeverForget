@@ -8,4 +8,4 @@ Several features implemented includes:
 - MySQL database implementation using the SugarORM (satyan/sugar)
 - Support item editing
 
-[Alt text](https://github.com/jwangsadinata/NeverForget/blob/master/splash.png)
+![Splash](https://github.com/jwangsadinata/NeverForget/blob/master/splash.png)
