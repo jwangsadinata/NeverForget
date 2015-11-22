@@ -9,3 +9,6 @@ Several features implemented includes:
 - Support item editing
 
 ![Splash](https://github.com/jwangsadinata/NeverForget/blob/master/splash.png)
+![Main](https://github.com/jwangsadinata/NeverForget/blob/master/mainactivity.png)
+![Example](https://github.com/jwangsadinata/NeverForget/blob/master/example.png)
+![Menu](https://github.com/jwangsadinata/NeverForget/blob/master/menu.png)
