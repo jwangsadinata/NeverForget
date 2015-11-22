@@ -7,3 +7,5 @@ Several features implemented includes:
 - Multiple icons for different item categories
 - MySQL database implementation using the SugarORM (satyan/sugar)
 - Support item editing
+
+![Alt text](https://github.com/jwangsadinata/NeverForget/edit/master/splash.png "SplashScreen")
